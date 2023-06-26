@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>Hello world
+</head>
+
+<h1> Tamo fazendo jovem...</h1>
+<p><strong>Meu primeiro HTML</p>
+<body> My favorite drink is beer
+</body></br>
+</strong>
+
+<ul>
+<li> Dormir</li>
+<ul> 
+<li>7 horas </li>
+</ul>
+<li> Caminhar</li>
+<li> Estudar</li>
+<ul>
+
+<p><abbr title="Sasah">
+tem uma sra maravilhosa vendo isso</abbr>
+</p>
+
+<img src="https://www.clarin.com/img/2018/10/10/tzN1LRG0G_720x0__1.jpg" />
+
+<hr>
+<hr/>
+
+<a href="https://bing.com">vai pro Bing jovem</a>
+
+</html>      
